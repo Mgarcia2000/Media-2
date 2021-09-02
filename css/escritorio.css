@@ -1,0 +1,13 @@
+.section-body {
+    max-width: 130rem;
+}
+.tags {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:left;
+}
+
+/* Necesito ser mas profesional y repara esto :/*/
+.tags__item {
+    margin: 4.1rem 6.5rem;
+}
